@@ -1,3 +1,4 @@
+//Алгоритм Прима
 using System;
 
 class Prim_Alg
